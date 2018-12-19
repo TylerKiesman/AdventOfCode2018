@@ -1,7 +1,6 @@
 _author_ = 'kiesm'
 
 import Day1Code.Day1 as day1
-import operator
 
 """
 Returns 2 dictionaries for all the data about the guards and when they slept
